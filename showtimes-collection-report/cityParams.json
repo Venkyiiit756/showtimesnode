@@ -1,0 +1,38 @@
+{
+    "WAR": {
+      "regionCode": "WAR",
+      "subRegionCode": "WAR",
+      "bmsId": "1.21345445.1703250084656",
+      "token": "67x1xa33b4x422b361ba",
+      "lat": "12.971599",
+      "lon": "77.59457",
+      "name": "Warangal (WAR)"
+    },
+    "HYD": {
+      "regionCode": "HYD",
+      "subRegionCode": "HYD",
+      "bmsId": "1.21345445.1703250084660",
+      "token": "67x1xa33b4x422b361bb",
+      "lat": "17.3850",
+      "lon": "78.4867",
+      "name": "Hyderabad (HYD)"
+    },
+    "KARIM": {
+      "regionCode": "KARIM",
+      "subRegionCode": "KARIM",
+      "bmsId": "1.21345445.1703250084661",
+      "token": "67x1xa33b4x422b361bc",
+      "lat": "18.4392",
+      "lon": "79.1288",
+      "name": "Karimnagar (KARIM)"
+    },
+    "CHEN": {
+      "regionCode": "CHEN",
+      "subRegionCode": "CHEN",
+      "bmsId": "1.21345445.1703250084662",
+      "token": "67x1xa33b4x422b361bd",
+      "lat": "13.0827",
+      "lon": "80.2707",
+      "name": "Chennai (CHEN)"
+    }
+  }  

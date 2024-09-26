@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Showtimes Collection Report</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h1>Showtimes Collection Report</h1>
+
+  <!-- Navigation Links -->
+  <div id="nav-links">
+    <a data-table="overall" class="active">Overall Summary</a>
+    <a data-table="city">City Summary</a>
+    <a data-table="area">Area Summary</a>
+    <a data-table="theater">Theater Summary</a>
+    <a data-table="showtime">Showtime Summary</a>
+    <a data-table="category">Category Details</a>
+  </div>
+
+  <!-- Loading Indicator -->
+  <div id="loading">
+    <p>Loading data, please wait...</p>
+  </div>
+
+  <div id="controls">
+    <!-- City Dropdown (Multiple Selection Enabled) -->
+    <select id="city-dropdown" multiple>
+      <!-- Options will be populated dynamically -->
+    </select>
+    <input type="text" id="search-box" placeholder="Search...">
+    <!-- Download Excel Button Removed -->
+  </div>
+
+  <div id="table-container"></div>
+
+  <!-- Removed Chart Container -->
+
+  <script src="script.js"></script>
+</body>
+</html>
